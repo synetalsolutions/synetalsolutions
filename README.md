@@ -4,8 +4,25 @@ I'm **synetalsolutions**, a hub for cutting-edge development, specializing in bu
 
 ---
 
+### 💻 Tech Stack & Expertise
 
-### 🤝 Connect with Me
+| Category | Technologies |
+| :--- | :--- |
+| **AI/ML** | Python, PyTorch, TensorFlow, scikit-learn |
+| **Backend** | Go, Node.js (TypeScript), Django, Fast API |
+| **Cloud/DevOps** | Docker, Kubernetes, AWS (S3, EC2), Terraform |
+| **Data/DB** | PostgreSQL, Redis, Apache Kafka |
+
+---
+
+### 🚀 Current Projects
+
+I am actively working on the following projects:
+
+- **[Project 1 Name]**: *A brief description of a current AI project.*
+- **[Project 2 Name]**: *Focused on microservices and cloud deployment.*
+
+---
 
 *To fully customize your profile, please replace this with your actual links!*
 
