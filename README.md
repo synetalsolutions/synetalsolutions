@@ -19,8 +19,7 @@ I'm **synetalsolutions**, a hub for cutting-edge development, specializing in bu
 
 I am actively working on the following projects:
 
-- **[Project 1 Name]**: *A brief description of a current AI project.*
-- **[Project 2 Name]**: *Focused on microservices and cloud deployment.*
+- **[ai-data-pipeline-template](https://github.com/synetalsolutions/ai-data-pipeline-template)**: A minimal, containerized template for building robust data processing and AI/ML pipelines.
 
 ---
 
