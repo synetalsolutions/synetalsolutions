@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **synetalsolutions**, a space for innovation and development.
+I'm **synetalsolutions**, a hub for cutting-edge development, specializing in building and deploying intelligent, data-driven solutions with a focus on AI and robust software architecture.
 
 ---
 
