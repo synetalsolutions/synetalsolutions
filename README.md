@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manoj+Malviya;Full-Stack+Engineer;AI+%2F+LLM+Infrastructure+Builder;Shipping+ProAero+%2B+Kestrel+AI" alt="Typing SVG" width="600"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Manoj+Malviya;Full-Stack+Engineer;AI+%2F+LLM+Infrastructure+Builder;Shipping+Open-Source+%40+Synetal+ Solutions" alt="Typing SVG" width="600"/>
 
 <br/>
 
@@ -23,10 +23,10 @@
 
 ### 👨‍💻 &nbsp;About Me
 
-I'm a **Full-Stack Engineer & founder-engineer at [Synetal Solutions](https://synetalsolutions.com)**, based in **Indore, India 🇮🇳**. I architect and ship production-grade systems across **aviation ERP, AI document platforms, multi-model LLM gateways, and developer tooling** — with a deep focus on metadata-driven design and scalable infrastructure.
+I'm a **Full-Stack Engineer & Founder-Engineer at [Synetal Solutions](https://synetalsolutions.com)**, based in **Indore, India 🇮🇳**. I architect and ship production-grade systems across **multi-model LLM gateways, developer tooling, AI-powered automation, and containerized ML pipelines** — with a deep focus on clean architecture and scalable infrastructure.
 
-- 🔭 &nbsp;Currently scaling **[ProAero](https://synetalsolutions.com)** — a metadata-driven application platform
-- 🪶 &nbsp;Shipped **Kestrel AI** — a cost-aware multi-model LLM gateway (57–96% token savings)
+- 🪶 &nbsp;Building **[Kestrel AI](https://github.com/synetalsolutions/kestrel-ai)** — a cost-aware multi-model LLM gateway (57–96% token savings)
+- 🦞 &nbsp;Contributing to **[OpenClaw](https://github.com/synetalsolutions/openclaw)** — a personal AI assistant for any OS
 - 🌐 &nbsp;Company: **Synetal Solutions Pvt Ltd**
 - 💡 &nbsp;I love shipping CLI tools, infra automation, and clean React UIs
 - 💬 &nbsp;Ask me about **TypeScript · Go · React · Node · Python · LLM infra · Docker**
@@ -83,6 +83,23 @@ I'm a **Full-Stack Engineer & founder-engineer at [Synetal Solutions](https://sy
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">🦞 OpenClaw</h3>
+      <p align="center"><b>Personal AI Assistant — Any OS, Any Platform</b></p>
+      <p align="center">Your own personal AI assistant built "the lobster way" — runs anywhere, open-source, extensible.</p>
+      <p align="center">
+        <a href="https://github.com/synetalsolutions/openclaw">
+          <img src="https://img.shields.io/badge/⭐_View_Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Assistant-E74C3C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Cross_Platform-9B59B6?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">🛠️ EVE-NG Lab Agent</h3>
       <p align="center"><b>AI-Powered Network Lab Builder</b></p>
       <p align="center">Chat-driven topology creation for EVE-NG with auto-deploy via SCP. Supports <b>DeepSeek, OpenAI & Ollama</b> models.</p>
@@ -97,32 +114,19 @@ I'm a **Full-Stack Engineer & founder-engineer at [Synetal Solutions](https://sy
         <img src="https://img.shields.io/badge/Chat_Driven-F39C12?style=flat-square"/>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 ProAero ERP</h3>
-      <p align="center"><b>Metadata-Driven Application Platform</b></p>
-      <p align="center">A schema-driven UI + runtime backend powering aviation ERP — configurable, extensible, and built to scale.</p>
+      <h3 align="center">🧪 AI Data Pipeline Template</h3>
+      <p align="center"><b>Containerized AI/ML Pipeline Starter</b></p>
+      <p align="center">A minimal, containerized template for building robust data processing and AI/ML pipelines — production-ready out of the box.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/🔒_Private_Project-6C757D?style=for-the-badge&logo=lock"/>
+        <a href="https://github.com/synetalsolutions/ai-data-pipeline-template">
+          <img src="https://img.shields.io/badge/⭐_View_Repo-181717?style=for-the-badge&logo=github" alt="View Repo"/>
+        </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Schema_Driven-2ECC71?style=flat-square"/>
-        <img src="https://img.shields.io/badge/ERP-3498DB?style=flat-square"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 AeroDocs</h3>
-      <p align="center"><b>Intelligent Document Platform</b></p>
-      <p align="center">AI-powered document ingestion, OCR & semantic search pipeline with Haystack + Docling extraction.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/🔒_Private_Project-6C757D?style=for-the-badge&logo=lock"/>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/AI_Search-E67E22?style=flat-square"/>
-        <img src="https://img.shields.io/badge/OCR-16A085?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML_Pipeline-2ECC71?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Template-3498DB?style=flat-square"/>
       </p>
     </td>
   </tr>
